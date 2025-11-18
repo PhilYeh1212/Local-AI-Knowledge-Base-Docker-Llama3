@@ -1,8 +1,3 @@
-# Local-AI-Knowledge-Base-Docker-Llama3
-A production-ready, 100% offline RAG Knowledge Base using Docker, Llama 3, and Ollama. Chat with your documents privately. Enterprise architecture showcase.
-
-
-
 # 🧠 Enterprise Local RAG: Private AI Knowledge Base (Docker + Llama 3)
 
 [![Docker](https://img.shields.io/badge/Docker-Containerized-blue.svg)](https://www.docker.com/)
@@ -21,8 +16,6 @@ A production-ready, 100% offline RAG Knowledge Base using Docker, Llama 3, and O
 This system is designed with a microservices architecture, fully containerized using **Docker Compose** for one-click deployment.
 
 ![System Architecture Diagram](images/architecture_diagram.png)
-*(Place a diagram here showing: User -> Web UI -> Backend API -> ChromaDB <-> Ollama)*
-
 ### 🛠️ Tech Stack
 * **LLM Inference:** [Ollama](https://ollama.com/) (Running **Meta Llama 3** 8B)
 * **Embeddings:** `mxbai-embed-large` (State-of-the-art retrieval performance)
@@ -46,10 +39,8 @@ This system is designed with a microservices architecture, fully containerized u
 
 ### 1. Chat Interface (Streamlit)
 ![Chat UI](images/chat_demo.png)
-
 ### 2. Knowledge Base Management
 ![Ingestion Process](images/ingestion_demo.png)
-
 ---
 
 ## 💻 System Requirements
@@ -76,8 +67,7 @@ I have packaged the **Full Source Code**, **Docker Configuration**, and **Setup 
 * ✅ **UI/UX Implementation**
 * ✅ **Premium Support Guide**
 
-👉 **Download the System Here:** [**Get it on Gumroad ($299)**](https://pokhts.gumroad.com/l/senior-engineer-toolkit)
-
+👉 **Download the System Here:** [**Get it on Gumroad ($300)**](https://pokhts.gumroad.com/l/senior-engineer-toolkit)
 *(Instant Access. One-time payment. Lifetime usage.)*
 
 ---
@@ -86,8 +76,8 @@ I have packaged the **Full Source Code**, **Docker Configuration**, and **Setup 
 **Phil Yeh** - Senior Automation & Systems Engineer.
 Specializing in Hardware-Software Integration, Industrial Automation, and Local AI Solutions.
 
-* [LinkedIn Profile](#)
-* [My Gumroad Store](https://pokhts.gumroad.com/)
+* [LinkedIn Profile]([https://www.linkedin.com/in/PhilYeh](https://www.linkedin.com/in/phil-yeh-204144297/))
+* [My Gumroad Store]([https://pokhts.gumroad.com/](https://pokhts.gumroad.com/l/ai-knowledge-docker))
 
 ---
 *Keywords: RAG, Llama 3, Ollama, Docker, Local AI, Private GPT, Knowledge Base, Python, Vector Database, ChromaDB, Source Code*
