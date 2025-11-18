@@ -15,7 +15,6 @@
 
 This system is designed with a microservices architecture, fully containerized using **Docker Compose** for one-click deployment.
 
-![System Architecture Diagram](images/architecture_diagram.png)
 ### 🛠️ Tech Stack
 * **LLM Inference:** [Ollama](https://ollama.com/) (Running **Meta Llama 3** 8B)
 * **Embeddings:** `mxbai-embed-large` (State-of-the-art retrieval performance)
@@ -35,14 +34,47 @@ This system is designed with a microservices architecture, fully containerized u
 
 ---
 
+## 🎥 Live Demo
+
+Click the image below to watch the system in action:
+
+[Watch the Demo](https://www.youtube.com/watch?v=Bjw8hNpwWdE)
+
+
 ## 📸 Screenshots
 
 ### 1. Chat Interface (Streamlit)
-![Chat UI](images/chat_demo.png)
-### 2. Knowledge Base Management
-![Ingestion Process](images/ingestion_demo.png)
----
+[Chat UI]<img width="1609" height="856" alt="螢幕擷取畫面 2025-11-17 133350" src="https://github.com/user-attachments/assets/02268e49-e562-4da7-a5d5-9a549af125b3" />
 
+[Ingestion Process]
+```mermaid
+graph TD
+    subgraph Docker_Container [🐳 Docker Containerized Environment]
+        style Docker_Container fill:#e1f5fe,stroke:#01579b,stroke-width:2px,rx:10,ry:10
+        
+        UI["🖥️ Streamlit Web UI"]:::ui
+        Backend["⚙️ Python RAG Backend"]:::code
+        
+        subgraph Local_AI [🧠 Local AI Engine]
+            style Local_AI fill:#fff3e0,stroke:#ff6f00,stroke-width:2px
+            Ollama["🦙 Ollama Service<br/>(Llama 3 Model)"]:::ai
+            Embed["✨ Embedding Model<br/>(mxbai-embed-large)"]:::ai
+        end
+        
+        DB[("🗄️ ChromaDB<br/>Vector Store")]:::db
+    end
+
+    User([👤 User]) -->|Upload PDF/Ask Question| UI
+    UI <-->|API Request| Backend
+    Backend <-->|Store/Retrieve Vectors| DB
+    Backend <-->|Inference Request| Ollama
+    Backend -->|Generate Embeddings| Embed
+
+    classDef ui fill:#d1c4e9,stroke:#512da8,stroke-width:2px,color:black;
+    classDef code fill:#c8e6c9,stroke:#2e7d32,stroke-width:2px,color:black;
+    classDef db fill:#ffcdd2,stroke:#c62828,stroke-width:2px,color:black;
+    classDef ai fill:#fff9c4,stroke:#fbc02d,stroke-width:2px,color:black;
+```
 ## 💻 System Requirements
 
 To run this system smoothly with Llama 3 (8B), the following hardware is recommended:
@@ -76,8 +108,8 @@ I have packaged the **Full Source Code**, **Docker Configuration**, and **Setup 
 **Phil Yeh** - Senior Automation & Systems Engineer.
 Specializing in Hardware-Software Integration, Industrial Automation, and Local AI Solutions.
 
-* [LinkedIn Profile]([https://www.linkedin.com/in/PhilYeh](https://www.linkedin.com/in/phil-yeh-204144297/))
-* [My Gumroad Store]([https://pokhts.gumroad.com/](https://pokhts.gumroad.com/l/ai-knowledge-docker))
+* [**LinkedIn Profile**]([https://www.linkedin.com/in/PhilYeh](https://www.linkedin.com/in/phil-yeh-204144297/)
+* [**My Gumroad Store**]([https://pokhts.gumroad.com/](https://pokhts.gumroad.com/l/ai-knowledge-docker)
 
 ---
 *Keywords: RAG, Llama 3, Ollama, Docker, Local AI, Private GPT, Knowledge Base, Python, Vector Database, ChromaDB, Source Code*
