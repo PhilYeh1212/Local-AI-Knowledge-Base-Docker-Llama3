@@ -99,7 +99,7 @@ I have packaged the **Full Source Code**, **Docker Configuration**, and **Setup 
 * ✅ **UI/UX Implementation**
 * ✅ **Premium Support Guide**
 
-👉 **Download the System Here:** [**Get it on Gumroad ($300)**](https://pokhts.gumroad.com/l/senior-engineer-toolkit)
+👉 **Download the System Here:** [**Get it on Gumroad**](https://pokhts.gumroad.com/l/senior-engineer-toolkit)
 *(Instant Access. One-time payment. Lifetime usage.)*
 
 ---
