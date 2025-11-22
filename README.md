@@ -1,3 +1,8 @@
+> **🔥 BLACK FRIDAY SALE:** Get **15% OFF** all source codes with code `BLACKFRIDAY`. [**Click here to apply discount automatically**](https://pokhts.gumroad.com/l/senior-engineer-toolkit?offer_code=BLACKFRIDAY)
+
+
+
+
 # 🧠 Enterprise Local RAG: Private AI Knowledge Base (Docker + Llama 3)
 
 [![Docker](https://img.shields.io/badge/Docker-Containerized-blue.svg)](https://www.docker.com/)
