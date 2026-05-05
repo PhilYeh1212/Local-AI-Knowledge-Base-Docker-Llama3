@@ -34,7 +34,7 @@ We provide different tiers to support everyone from individual developers to ent
 | **PDF Pre-processing** | ❌ | ✅ Included | ✅ Included |
 | **1-on-1 Setup Service** | ❌ | ❌ | ✅ **Personal Support** |
 | **Technical Consulting** | ❌ | ❌ | ✅ **Priority Support** |
-| **Get Access** | **Current Repo** | [**Buy Lite**](https://pokhts.gumroad.com/l/pgwudh) | [**Buy Pro**](https://pokhts.gumroad.com/l/ai-knowledge-docker) |
+| **Get Access** | **Current Repo** | [**Buy Lite**]([https://pokhts.gumroad.com/l/pgwudh](https://pokhts.gumroad.com/l/pgwudh?_gl=1*1rgjeue*_ga*MjE0ODk4ODI3LjE3Nzc1NDE2NDY.*_ga_6LJN6D94N6*czE3Nzc5NjQ3NTMkbzckZzEkdDE3Nzc5NjU4NDckajUzJGwwJGgw)) |
 
 ---
 
@@ -53,6 +53,6 @@ Hardware Acceleration: Pre-configured for NVIDIA GPU (CUDA) support.
 
 ✉️ Contact & Support
 Issues: Please use the GitHub Issues for bug reports of the Community Edition.
-Business Inquiries: For custom integrations or enterprise licensing, please contact me via [Gumroad](https://pokhts.gumroad.com/l/ai-knowledge-docker).
+Business Inquiries: For custom integrations or enterprise licensing, please contact me via [Gumroad]([https://pokhts.gumroad.com/l/ai-knowledge-docker](https://pokhts.gumroad.com/l/pgwudh?_gl=1*1rgjeue*_ga*MjE0ODk4ODI3LjE3Nzc1NDE2NDY.*_ga_6LJN6D94N6*czE3Nzc5NjQ3NTMkbzckZzEkdDE3Nzc5NjU4NDckajUzJGwwJGgw)).
 
 If you find this project helpful, please give it a ⭐ to support the development!
