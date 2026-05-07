@@ -42,10 +42,10 @@ Private ChatGPT Stack screenshot
 This repo contains the **Community Edition** — a working RAG stack you
 can clone and run, free for personal use and learning.
 
-The **[Private ChatGPT Stack](https://pokhts.gumroad.com)** version on Gumroad
+The **[Private ChatGPT Stack](https://philyeh.gumroad.com)** version on Gumroad
 adds the production features that turn this from a demo into a real tool:
 
-| Feature | Community (this repo) | **[Pro Edition ($59)](https://pokhts.gumroad.com)** |
+| Feature | Community (this repo) | **[Pro Edition ($59)](https://philyeh.gumroad.com)** |
 |---|:---:|:---:|
 | Three-service Docker architecture | ✅ | ✅ |
 | Ollama + Llama 3 + ChromaDB | ✅ | ✅ |
@@ -63,7 +63,7 @@ adds the production features that turn this from a demo into a real tool:
 | **Commercial license** | ❌ | ✅ |
 | **Email support** | ❌ | ✅ |
 
-### 👉 [Get Private ChatGPT Stack on Gumroad — $59](https://pokhts.gumroad.com)
+### 👉 [Get Private ChatGPT Stack on Gumroad — $59](https://philyeh.gumroad.com)
 
 ---
 
@@ -170,20 +170,20 @@ For **most use cases**, ChatGPT is fine. For these, local AI is much better:
 ## 📥 Get the Pro version
 
 The Community Edition is fully functional and free. The
-**[Pro version](https://pokhts.gumroad.com)** adds the production polish
+**[Pro version](https://philyeh.gumroad.com)** adds the production polish
 that turns this from a "weekend project" into a "deploy-it-for-the-team"
 tool: one-click setup, environment-driven config, source citations,
 proper Dockerfile, and a commercial license.
 
 | Product | Price | Link |
 |---|---:|---|
-| 🔒 **Private ChatGPT Stack** (this tool, Pro edition) | $59 | [Buy](https://pokhts.gumroad.com) |
-| 🚛 **J1939 Sniffer Pro** | $59 | [Buy](https://pokhts.gumroad.com) |
-| ⚙️ **Modbus Logger Pro** | $49 | [Buy](https://pokhts.gumroad.com) |
-| 📡 **MQTT Logger Pro** | $39 | [Buy](https://pokhts.gumroad.com) |
-| 🏭 **EtherNet/IP Study Kit** | $29 | [Buy](https://pokhts.gumroad.com) |
-| 📦 **Industrial Python Toolkit Bundle** (4 tools, save $47) | **$129** | [Buy](https://pokhts.gumroad.com) |
-| 📊 **CSV Dashboard** (free companion tool) | $0 | [Download](https://pokhts.gumroad.com) |
+| 🔒 **Private ChatGPT Stack** (this tool, Pro edition) | $59 | [Buy](https://philyeh.gumroad.com) |
+| 🚛 **J1939 Sniffer Pro** | $59 | [Buy](https://philyeh.gumroad.com) |
+| ⚙️ **Modbus Logger Pro** | $49 | [Buy](https://philyeh.gumroad.com) |
+| 📡 **MQTT Logger Pro** | $39 | [Buy](https://philyeh.gumroad.com) |
+| 🏭 **EtherNet/IP Study Kit** | $29 | [Buy](https://philyeh.gumroad.com) |
+| 📦 **Industrial Python Toolkit Bundle** (4 tools, save $47) | **$129** | [Buy](https://philyeh.gumroad.com) |
+| 📊 **CSV Dashboard** (free companion tool) | $0 | [Download](https://philyeh.gumroad.com) |
 
 ---
 
@@ -202,7 +202,7 @@ proper Dockerfile, and a commercial license.
 Based in Taiwan. I build Python tools for Industrial IoT, CAN Bus, and
 Local AI.
 
-- 🛒 **Store:** [pokhts.gumroad.com](https://pokhts.gumroad.com)
+- 🛒 **Store:** [philyeh.gumroad.com](https://philyeh.gumroad.com)
 - ✍️ **Blog:** [dev.to/philyeh](https://dev.to/philyeh)
 
 ---
@@ -211,7 +211,7 @@ Local AI.
 
 The Community Edition in this repository is free for personal and
 educational use. For commercial use (client projects, internal company
-tools, products you sell), please get the **[Pro Edition](https://pokhts.gumroad.com)**
+tools, products you sell), please get the **[Pro Edition](https://philyeh.gumroad.com)**
 which includes a proper commercial license.
 
 If this project helped you, please give it a ⭐ to support the
