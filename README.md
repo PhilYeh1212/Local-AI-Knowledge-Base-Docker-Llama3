@@ -69,7 +69,7 @@ This stack is what I built so I could chat with my own engineering manuals on a 
 
 ## Get it
 
-→ **[Private ChatGPT Stack on Gumroad — $59](https://philyeh.gumroad.com/l/private-chatgpt-stack)**
+→ **[Private ChatGPT Stack on Gumroad — $59](https://philyeh.gumroad.com/l/self-hosted-rag-llama3)**
 
 ## What's in the purchase
 
@@ -89,8 +89,7 @@ Note: Llama 3 itself is governed by Meta's Llama 3 License, which you must accep
 ## Support
 
 - Reply to your Gumroad purchase email
-- Setup issues / model questions via [GitHub Issues](https://github.com/PhilYeh1212/Local-AI-Knowledge-Base-Docker-Llama3/issues)
-
+- Setup issues / model questions via [GitHub Issues](https://philyeh.gumroad.com/l/self-hosted-rag-llama3)
 ---
 
 I write about industrial Python and protocol internals at **[dev.to/philyeh](https://dev.to/philyeh)**, and post Chinese versions on [iThelp](https://ithelp.ithome.com.tw/users/20171204).
