@@ -89,10 +89,9 @@ Note: Llama 3 itself is governed by Meta's Llama 3 License, which you must accep
 ## Support
 
 - Reply to your Gumroad purchase email
-- Setup issues / model questions via [GitHub Issues](https://philyeh.gumroad.com/l/self-hosted-rag-llama3)
 ---
 
-I write about industrial Python and protocol internals at **[dev.to/philyeh](https://dev.to/philyeh)**, and post Chinese versions on [iThelp](https://ithelp.ithome.com.tw/users/20171204).
+I write about industrial Python and protocol internals at **[dev.to/philyeh](https://dev.to/philyeh)**, and post Chinese versions on [iThelp](https://ithelp.ithome.com.tw/articles/10398637).
 
 — Phil Yeh · Senior Automation Engineer · Industrial Python · Developer Tools
 
